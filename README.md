@@ -6,6 +6,6 @@ I enjoyed this little self set challenge. Below is how to run my project with a 
 ### How to Run
  1. Clone the repository
  2. `npm install`
- 3. `node main.js carriehappoldt, chalkers, carriehappo`
+ 3. `node main.js carriehappoldt chalkers carriehappo`
  
 Thanks for joining me! Carrie 
